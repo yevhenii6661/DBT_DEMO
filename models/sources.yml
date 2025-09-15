@@ -7,8 +7,9 @@ sources:
     tables:
       - name: bike
       - name: weather
+
   - name: us_crime
     database: us_crime
     schema: cybersyn
     tables:
-      - name: CYBERSYN.URBAN_CRIME_INCIDENT_LOG
+      - name: URBAN_CRIME_INCIDENT_LOG
